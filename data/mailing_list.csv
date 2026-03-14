@@ -1,0 +1,6 @@
+FirstName,LastName,Email,Status
+Helena,Holý,helena@example.com,Subscribed
+Luis,Rojas,luis@example.com,Subscribed
+John,Doe,johndoe@test.com,Pending
+Jane,Smith,janesmith@test.com,Subscribed
+Richard,Cunningham,richard@example.com,Unsubscribed
