@@ -1,4 +1,5 @@
 SQL Analyst: An Agentic AI Teammate
+
 The SQL Analyst is a powerful Agentic AI built using the Model Context Protocol (MCP). It acts as a bridge between your LLM (like Claude or Antigravity) and your local data silos, allowing you to "chat" with SQL databases, CSV files, and Excel spreadsheets simultaneously.
 
 🌟 Key Features
